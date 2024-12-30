@@ -1,10 +1,10 @@
-public class Sum {
-    public static void main(String args []){
-        int a,b;
-        a=5;
-        b=10;
-        int sum=a+b;
-        System.out.println("sum");
+public class sum {
+    public static void main(String[] args) {
+        int num1 = 5;
+        int num2 = 10;
+        
+        int sum = num1 + num2;
+        
+        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
-    
 }
